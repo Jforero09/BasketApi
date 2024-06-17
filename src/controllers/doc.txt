@@ -1,0 +1,2 @@
+Esta carpeta guarda toda la logica de las funciones que se utilizan cuando se abre alguna ruta especificada. 
+Ej /jugadores ; /Equipos

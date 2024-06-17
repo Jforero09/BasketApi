@@ -1,0 +1,1 @@
+En este carpeta se guarda codigo o funciones que se pueden reutilizar en las demas clases o dependencias
